@@ -1,4 +1,5 @@
 # funko_data
+PYTHON
 Load the price of the page "https://www.funkopopstore.com.ar/" in a excel. 
 
 You need to have install beautifulsoup4 and openpyxl. 
